@@ -2,3 +2,4 @@
 
 - Watch videos
 - Make videos
+- Send videos
