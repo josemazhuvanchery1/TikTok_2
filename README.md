@@ -1,5 +1,6 @@
 # TikTok_2
 - Search for videos
+- chatbox
 - Follow people
 - search for trends
 - Watch videos
@@ -7,4 +8,3 @@
 - Send videos
 - Send messages
 
-- chatbox
