@@ -3,3 +3,4 @@
 - Watch videos
 - Make videos
 - Send videos
+- Send messages
