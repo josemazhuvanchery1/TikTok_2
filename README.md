@@ -6,3 +6,5 @@
 - Make videos
 - Send videos
 - Send messages
+
+- chatbox
